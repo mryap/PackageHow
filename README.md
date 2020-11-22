@@ -11,7 +11,7 @@ This package links to an article about creating R packages.
 You can install the PackageHow with:
 
 ``` r
-remotes::install_github("shians/PackageHow")
+remotes::install_github("mryap/PackageHow")
 ```
 
 ## Example
